@@ -6,6 +6,7 @@
   <comp-one v-slot:secondSlot="receiveData2">
     <h1>{{ receiveData2.secondName }}</h1>
     <h2>Hello World</h2>
+    <h3>Dhruv</h3>
   </comp-one>
 </template>
 
